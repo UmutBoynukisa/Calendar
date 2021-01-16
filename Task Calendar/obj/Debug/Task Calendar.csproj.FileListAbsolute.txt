@@ -1,0 +1,85 @@
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Task Calendar.dll.config
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Task Calendar.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Task Calendar.pdb
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\csc.exe
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\csc.exe.config
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\csc.rsp
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\csi.exe
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\csi.exe.config
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\csi.rsp
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.AppContext.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Console.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.IO.Compression.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Net.Http.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.ValueTuple.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\vbc.exe
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\vbc.exe.config
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\vbc.rsp
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Antlr3.Runtime.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\DHTMLX.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\EntityFramework.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\EntityFramework.SqlServer.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Newtonsoft.Json.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Helpers.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Mvc.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Optimization.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Razor.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.WebPages.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\WebGrease.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\DHTMLX.pdb
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\DHTMLX.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\EntityFramework.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\EntityFramework.SqlServer.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Helpers.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Mvc.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Optimization.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.Razor.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.WebPages.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Newtonsoft.Json.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Antlr3.Runtime.pdb
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\obj\Debug\Task Calendar.csprojAssemblyReference.cache
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\obj\Debug\Task Calendar.csproj.CopyComplete
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\obj\Debug\Task Calendar.dll
+C:\Users\Umut\Desktop\Proje\Task Calendar\Task Calendar\obj\Debug\Task Calendar.pdb

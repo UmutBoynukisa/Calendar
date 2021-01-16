@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.BagTitle = "DHTMLX Scheduler .NET";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2 style="text-align:center; color:powderblue;">Task Manager </h2>
+<div class="scheduler_container">
+    @Html.Raw(Model.Render())
+</div>
+<!--We' ve specified a very basic layout for calendar page. All it contain is a title and a block with Scheduler-->
+
